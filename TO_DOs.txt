@@ -1,1 +1,13 @@
-this is a check
+ian: 
+1. clean attributes dataset
+2. merge ideology thing 
+3. clean carp manning
+4. merge carp and attributes 
+
+george:
+look at public mood data 
+try finding a full dataset: by year and month + decisions of each judge
+upload the ideology thing
+
+after ian completes 2., george starts working on regression techniques + plotting of attributes and ideology 
+
