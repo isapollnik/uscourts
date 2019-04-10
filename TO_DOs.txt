@@ -1,6 +1,6 @@
 ian: 
 1. clean attributes dataset - Done!
-2. merge ideology thing
+2. merge ideology thing - Done! See Judge Attributes and Ideology.csv
 3. clean carp manning
 4. merge carp and attributes 
 
