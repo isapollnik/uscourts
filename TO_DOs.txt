@@ -1,6 +1,6 @@
 ian: 
-1. clean attributes dataset
-2. merge ideology thing 
+1. clean attributes dataset - Done!
+2. merge ideology thing
 3. clean carp manning
 4. merge carp and attributes 
 
