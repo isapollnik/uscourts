@@ -1,13 +1,25 @@
-ian: 
+Ian: 
+- Explore prediction and/or ML econometric techniques with attributes + Carp Manning data
+
+George:
+- Hone predictive models of judge ideology (ie: deal with overfitting)
+- (Paul's suggestion) look at decomposition of attributes effect on ideology (how much do attributes explain?)
+- Add Neural Networks and maybe gradient Forest to nuisance function estimation 
+- Work on prediction visualizations 
+
+If we run out of things to do:
+look at public mood data 
+Completed tasks:
+Ian
 1. clean attributes dataset - Done!
 2. merge ideology thing - Done! See Judge Attributes and Ideology.csv
 3. clean carp manning - Done! See Carp Manning Clean.csv
 4. merge carp and attributes - Done!
 
-george:
-look at public mood data 
-try finding a full dataset: by year and month + decisions of each judge
-upload the ideology thing
+George
+try finding a full dataset: by year and month + decisions of each judge - Done! 
+upload the ideology thing - Done! 
 
 after ian completes 2., george starts working on regression techniques + plotting of attributes and ideology 
+
 
