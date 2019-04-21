@@ -7,8 +7,8 @@ George:
 - (Paul's suggestion) look at decomposition of attributes effect on ideology - Done 
 - Add Neural Networks to nuisance function estimation - Done 
 - Work on prediction/nuisance visualizations - Done (although could do more)
-- Add visualization for pure judge attributes
-- Add comments to all code 
+- Add visualization for pure judge attributes - Done
+- Add comments to all code - Done
 
 If we run out of things to do:
 Look at public mood data 
